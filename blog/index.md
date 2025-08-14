@@ -26,13 +26,13 @@
 
 ## 最后想说的💬：
 
-> Though my wings've been bloodstained and could never rid
-> 
-> I will try hard to soar to the heaven I dreamed
-> 
-> There is no *exception* in this library
-> 
-> For I know I will always go with you
+Though my wings've been bloodstained and could never rid
+
+I will try hard to soar to the heaven I dreamed
+
+There is no *exception* in this library
+
+For I know I will always go with you
 
 <div id="disqus_thread"></div>
 <script>
