@@ -14,7 +14,7 @@
 
 ### Content-Type
 
-```application/json```
+- application/json
 
 ### 返回
 
@@ -56,7 +56,7 @@
 
 ### Content-Type
 
-```application/json```
+- application/json
 
 ### 返回
 
@@ -153,7 +153,7 @@
 
 ### Content-Type
 
-```application/json```
+- application/json
 
 ### 参数
 
@@ -402,7 +402,7 @@
 
 ### Content-Type
 
-```application/json```
+- application/json
 
 ### 返回
 
@@ -463,7 +463,7 @@
 
 ### Content-Type
 
-```application/json```
+- application/json
 
 ### 参数
 
@@ -503,7 +503,7 @@
 
 ### Content-Type
 
-```application/json```
+- application/json
 
 ### 参数
 
@@ -588,7 +588,7 @@
 
 ### Content-Type
 
-```application/json```
+- application/json
 
 ### 返回
 
@@ -610,7 +610,7 @@
 
 ### Content-Type
 
-```application/json```
+- application/json
 
 ### 返回
 
@@ -632,7 +632,7 @@
 
 ### Content-Type
 
-```application/json```
+- application/json
 
 ### 返回
 
@@ -767,7 +767,7 @@
 
 ### Content-Type
 
-```application/json```
+- application/json
 
 ### 返回
 
@@ -828,7 +828,7 @@
 
 ### Content-Type
 
-```application/json```
+- application/json
 
 ### 返回
 
@@ -907,7 +907,7 @@
 
 ### Content-Type
 
-```application/json```
+- application/json
 
 ### 返回
 
@@ -944,7 +944,7 @@
 
 ### Content-Type
 
-```application/json```
+- application/json
 
 ### 返回
 
@@ -1011,3 +1011,20 @@
 -   index: int 赛事阶段{phaseIndex}
 -   sessions: List\[[Session](#session)\] 当前阶段赛程列表
 -   aggregateTotals: application/json 队伍当前阶段通算得分数据
+
+<div id="disqus_thread"></div>
+<script>
+    
+    var disqus_config = function () {
+    this.page.url = 'https://cyber.mj00.top/blog';  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = 'blog'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://mj00-top.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
